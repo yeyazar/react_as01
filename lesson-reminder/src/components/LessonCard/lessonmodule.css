@@ -1,0 +1,24 @@
+.card-div{
+  display: flex;
+  align-items: center;
+  width: 30%;
+  gap: 1rem;
+  color: orange;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.card-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.card-p{
+  margin:0;
+}
+
+span{
+  color:white;
+  font-weight: 400;
+}
